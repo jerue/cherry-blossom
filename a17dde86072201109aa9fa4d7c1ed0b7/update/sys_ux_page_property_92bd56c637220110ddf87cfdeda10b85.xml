@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Main Configuration</description>
+        <name>chrome_main</name>
+        <page display_value="Tree Watcher">d2bd56c6fd220110bafa666415743585</page>
+        <required_translations/>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-31 18:57:00</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>92bd56c637220110ddf87cfdeda10b85</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_main</sys_name>
+        <sys_package display_value="Cherry Blossom Tracker App" source="x_60717_cherry_b_0">a17dde86072201109aa9fa4d7c1ed0b7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Cherry Blossom Tracker App">a17dde86072201109aa9fa4d7c1ed0b7</sys_scope>
+        <sys_update_name>sys_ux_page_property_92bd56c637220110ddf87cfdeda10b85</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-31 18:57:00</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_60717_cherry_b_0.d2bd56c6fd220110bafa666415743585.root.chrome_main</unique_name>
+        <value>{&#13;
+  "maxCachedPageCount": 5,&#13;
+  "maxActivePageCount": 3,&#13;
+  "timeLeftWarning": 15&#13;
+}</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=92bd56c637220110ddf87cfdeda10b85"/>
+</record_update>
